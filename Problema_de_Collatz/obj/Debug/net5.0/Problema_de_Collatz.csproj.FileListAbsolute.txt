@@ -1,0 +1,16 @@
+D:\C# testes\Problema_de_Collatz\Problema_de_Collatz\bin\Debug\net5.0\Problema_de_Collatz.exe
+D:\C# testes\Problema_de_Collatz\Problema_de_Collatz\bin\Debug\net5.0\Problema_de_Collatz.deps.json
+D:\C# testes\Problema_de_Collatz\Problema_de_Collatz\bin\Debug\net5.0\Problema_de_Collatz.runtimeconfig.json
+D:\C# testes\Problema_de_Collatz\Problema_de_Collatz\bin\Debug\net5.0\Problema_de_Collatz.runtimeconfig.dev.json
+D:\C# testes\Problema_de_Collatz\Problema_de_Collatz\bin\Debug\net5.0\Problema_de_Collatz.dll
+D:\C# testes\Problema_de_Collatz\Problema_de_Collatz\bin\Debug\net5.0\ref\Problema_de_Collatz.dll
+D:\C# testes\Problema_de_Collatz\Problema_de_Collatz\bin\Debug\net5.0\Problema_de_Collatz.pdb
+D:\C# testes\Problema_de_Collatz\Problema_de_Collatz\obj\Debug\net5.0\Problema_de_Collatz.csproj.AssemblyReference.cache
+D:\C# testes\Problema_de_Collatz\Problema_de_Collatz\obj\Debug\net5.0\Problema_de_Collatz.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# testes\Problema_de_Collatz\Problema_de_Collatz\obj\Debug\net5.0\Problema_de_Collatz.AssemblyInfoInputs.cache
+D:\C# testes\Problema_de_Collatz\Problema_de_Collatz\obj\Debug\net5.0\Problema_de_Collatz.AssemblyInfo.cs
+D:\C# testes\Problema_de_Collatz\Problema_de_Collatz\obj\Debug\net5.0\Problema_de_Collatz.csproj.CoreCompileInputs.cache
+D:\C# testes\Problema_de_Collatz\Problema_de_Collatz\obj\Debug\net5.0\Problema_de_Collatz.dll
+D:\C# testes\Problema_de_Collatz\Problema_de_Collatz\obj\Debug\net5.0\ref\Problema_de_Collatz.dll
+D:\C# testes\Problema_de_Collatz\Problema_de_Collatz\obj\Debug\net5.0\Problema_de_Collatz.pdb
+D:\C# testes\Problema_de_Collatz\Problema_de_Collatz\obj\Debug\net5.0\Problema_de_Collatz.genruntimeconfig.cache
